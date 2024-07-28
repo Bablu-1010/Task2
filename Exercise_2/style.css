@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+/*Element selectore*/
+p{
+    color: blue;
+    font-size: 16px;
+}
+
+/* Class selector*/
+.special{
+    color: green;
+    font-weight: bold;
+}
+
+/*ID selector*/
+#main-Heading{
+    color: red;
+    text-align: center;
+}
