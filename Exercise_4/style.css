@@ -1,0 +1,71 @@
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Font Families */
+.font-arial {
+    font-family: Arial, sans-serif;
+}
+
+.font-verdana {
+    font-family: Verdana, sans-serif;
+}
+
+.font-georgia {
+    font-family: Georgia, serif;
+}
+
+/* Font Sizes and Units */
+.font-size-px {
+    font-size: 24px;
+}
+
+.font-size-em {
+    font-size: 2em;
+}
+
+.font-size-rem {
+    font-size: 2rem;
+}
+
+.font-size-percent {
+    font-size: 150%;
+}
+
+/* Font Weights */
+.font-weight-normal {
+    font-weight: normal;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.font-weight-light {
+    font-weight: 300;
+}
+
+/* Line Height and Letter Spacing */
+.line-height-spacing {
+    line-height: 1.6;
+    letter-spacing: 0.1em;
+}
+
+/* Text Alignment and Decoration */
+.text-align-center {
+    text-align: center;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-decoration-underline {
+    text-decoration: underline;
+}
+
+.text-decoration-line-through {
+    text-decoration: line-through;
+}
