@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.ex3 h1{
+    color:blueviolet;
+}
+.Box{
+    margin-left: 10%;
+    align-content: center;
+    height: 500px;
+    width: 500px;
+    border: 1px black;
+}
